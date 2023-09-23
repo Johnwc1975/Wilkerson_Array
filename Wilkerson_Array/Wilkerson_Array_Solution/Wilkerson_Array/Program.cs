@@ -1,43 +1,4 @@
-﻿
-
-
-// Jonathan Wilkerson
-
-
-
-// IT113
-
-
-
-// NOTES: Notes the instructor should read
-
-//Here's an efficient implementation that should run in less than a second:
-
-
-
-// BEHAVIORS NOT IMPLEMENTED AND WHY: Are there any parts of the assignment 
-
-//We use a do-while loop to generate random characters and ensure their uniqueness in the array by checking the ArrayContainsChar function.
-
-//The ArrayContainsChar function checks for character uniqueness in a case-insensitive manner by converting both characters to lowercase before comparison.
-
-//The Stopwatch class is used to measure the execution time.
-
-//The code generates random uppercase and lowercase characters to ensure case-insensitive uniqueness
-
-
-
-// you did not complete?
-
-//im pretty sure im completed : )
-
-
-
-
-
-
-
-using System;
+﻿using System;
 using System.Diagnostics;
 using System.Linq;
 
