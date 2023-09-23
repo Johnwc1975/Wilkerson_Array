@@ -1,0 +1,14 @@
+C:\Users\capti\source\repos\Wilkerson_Array_Solution\Wilkerson_Array\bin\Debug\net6.0\Wilkerson_Array.exe
+C:\Users\capti\source\repos\Wilkerson_Array_Solution\Wilkerson_Array\bin\Debug\net6.0\Wilkerson_Array.deps.json
+C:\Users\capti\source\repos\Wilkerson_Array_Solution\Wilkerson_Array\bin\Debug\net6.0\Wilkerson_Array.runtimeconfig.json
+C:\Users\capti\source\repos\Wilkerson_Array_Solution\Wilkerson_Array\bin\Debug\net6.0\Wilkerson_Array.dll
+C:\Users\capti\source\repos\Wilkerson_Array_Solution\Wilkerson_Array\bin\Debug\net6.0\Wilkerson_Array.pdb
+C:\Users\capti\source\repos\Wilkerson_Array_Solution\Wilkerson_Array\obj\Debug\net6.0\Wilkerson_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\capti\source\repos\Wilkerson_Array_Solution\Wilkerson_Array\obj\Debug\net6.0\Wilkerson_Array.AssemblyInfoInputs.cache
+C:\Users\capti\source\repos\Wilkerson_Array_Solution\Wilkerson_Array\obj\Debug\net6.0\Wilkerson_Array.AssemblyInfo.cs
+C:\Users\capti\source\repos\Wilkerson_Array_Solution\Wilkerson_Array\obj\Debug\net6.0\Wilkerson_Array.csproj.CoreCompileInputs.cache
+C:\Users\capti\source\repos\Wilkerson_Array_Solution\Wilkerson_Array\obj\Debug\net6.0\Wilkerson_Array.dll
+C:\Users\capti\source\repos\Wilkerson_Array_Solution\Wilkerson_Array\obj\Debug\net6.0\refint\Wilkerson_Array.dll
+C:\Users\capti\source\repos\Wilkerson_Array_Solution\Wilkerson_Array\obj\Debug\net6.0\Wilkerson_Array.pdb
+C:\Users\capti\source\repos\Wilkerson_Array_Solution\Wilkerson_Array\obj\Debug\net6.0\Wilkerson_Array.genruntimeconfig.cache
+C:\Users\capti\source\repos\Wilkerson_Array_Solution\Wilkerson_Array\obj\Debug\net6.0\ref\Wilkerson_Array.dll
